@@ -1,0 +1,18 @@
+# Environment
+.env
+*.env
+
+# Credentials
+connection.inc.php
+admin/gmail_token.json
+admin/client_secret.json
+
+# Composer
+vendor/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
