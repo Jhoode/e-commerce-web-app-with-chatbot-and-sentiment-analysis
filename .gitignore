@@ -3,7 +3,7 @@
 *.env
 
 # Credentials
-connection.inc.php
+
 admin/gmail_token.json
 admin/client_secret.json
 
